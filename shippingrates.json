@@ -1,0 +1,686 @@
+[
+  {
+    "Governorate": "Al Ahmadi",
+    "Area": "Al thahar",
+    "ZipCode": 51215,
+    "ShippingRate": "4500"
+  },
+  {
+    "Governorate": "Al Ahmadi",
+    "Area": "Al ruqqa",
+    "ZipCode": 53301,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Ahmadi",
+    "Area": "Hadeya",
+    "ZipCode": 52700,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Ahmadi",
+    "Area": "Al Manqaf",
+    "ZipCode": 53700,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Ahmadi",
+    "Area": "Abu hulaifa",
+    "ZipCode": 54600,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Ahmadi",
+    "Area": "Fintas Investment",
+    "ZipCode": 50000,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Ahmadi",
+    "Area": "Auqaila",
+    "ZipCode": 54200,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Ahmadi",
+    "Area": "Al sabaheya",
+    "ZipCode": 55000,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Ahmadi",
+    "Area": "Al ahmadi",
+    "ZipCode": 60000,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Ahmadi",
+    "Area": "Al Fahahel",
+    "ZipCode": 63000,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Ahmadi",
+    "Area": "Sharq Al Ahmadi",
+    "ZipCode": 60000,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Ahmadi",
+    "Area": "Ali salem Al sabah",
+    "ZipCode": 65000,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Ahmadi",
+    "Area": "Mena Abdulla",
+    "ZipCode": 65200,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Ahmadi",
+    "Area": "Al Shuaiba",
+    "ZipCode": 65300,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Ahmadi",
+    "Area": "Bnaider",
+    "ZipCode": 66391,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Ahmadi",
+    "Area": "Alzur",
+    "ZipCode": 65900,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Ahmadi",
+    "Area": "Aljulea",
+    "ZipCode": 66304,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Ahmadi",
+    "Area": "Al Mahabula",
+    "ZipCode": 54000,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Ahmadi",
+    "Area": "Al Nuwaiseb",
+    "ZipCode": 65500,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Ahmadi",
+    "Area": "Al Khiran",
+    "ZipCode": 66300,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Ahmadi",
+    "Area": "Al wafra-1",
+    "ZipCode": 65700,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Ahmadi",
+    "Area": "Al wafra-2",
+    "ZipCode": 65701,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Ahmadi",
+    "Area": "Fahad Al Ahmed",
+    "ZipCode": 53800,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Ahmadi",
+    "Area": "Jaber Al ali",
+    "ZipCode": 51600,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Ahmadi",
+    "Area": "Sabah Al Ahmed Sakanya",
+    "ZipCode": 67500,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Ahmadi",
+    "Area": "Sabah Al Ahmed Bahreya",
+    "ZipCode": 67501,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Mubarak Al Kabeer",
+    "Area": "Sabah Al salem",
+    "ZipCode": 44000,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Mubarak Al Kabeer",
+    "Area": "Mesela",
+    "ZipCode": 26600,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Mubarak Al Kabeer",
+    "Area": "Al masayel",
+    "ZipCode": 26601,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Mubarak Al Kabeer",
+    "Area": "AL Adan",
+    "ZipCode": 47000,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Mubarak Al Kabeer",
+    "Area": "Al qusor",
+    "ZipCode": 47020,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Mubarak Al Kabeer",
+    "Area": "Al qurain",
+    "ZipCode": 47040,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Mubarak Al Kabeer",
+    "Area": "Abu alhassani",
+    "ZipCode": 51400,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Mubarak Al Kabeer",
+    "Area": "Abu Fatera",
+    "ZipCode": 47080,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Mubarak Al Kabeer",
+    "Area": "Sabhan",
+    "ZipCode": 46000,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Mubarak Al Kabeer",
+    "Area": "Al Fintas Sakani",
+    "ZipCode": 50000,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Mubarak Al Kabeer",
+    "Area": "Al Funaitess",
+    "ZipCode": 52400,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Mubarak Al Kabeer",
+    "Area": "Mubarak Al Kabeer",
+    "ZipCode": 47060,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Farwaniya",
+    "Area": "Abraq Kaitan",
+    "ZipCode": 83000,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Farwaniya",
+    "Area": "Eshbeliya",
+    "ZipCode": 85400,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Farwaniya",
+    "Area": "Andalus",
+    "ZipCode": 92000,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Farwaniya",
+    "Area": "Jaleb Al Shyokh",
+    "ZipCode": 85600,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Farwaniya",
+    "Area": "Al Rabya",
+    "ZipCode": 85201,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Farwaniya",
+    "Area": "Al rehab",
+    "ZipCode": 86000,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Farwaniya",
+    "Area": "Al raqee",
+    "ZipCode": 92700,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Farwaniya",
+    "Area": "Al rai",
+    "ZipCode": 70070,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Farwaniya",
+    "Area": "Al thatej",
+    "ZipCode": 85601,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Farwaniya",
+    "Area": "Al Ardeya",
+    "ZipCode": 92400,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Farwaniya",
+    "Area": "Al Omareya",
+    "ZipCode": 85001,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Farwaniya",
+    "Area": "Al ferdous",
+    "ZipCode": 92201,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Farwaniya",
+    "Area": "Al Farwaneya",
+    "ZipCode": 85000,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Farwaniya",
+    "Area": "Khaitan",
+    "ZipCode": 83001,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Farwaniya",
+    "Area": "Sabah Al naseer",
+    "ZipCode": 92420,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Farwaniya",
+    "Area": "Abdulla AlMubarak",
+    "ZipCode": 85700,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Jahra",
+    "Area": "Al Jahra",
+    "ZipCode": "00003",
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Jahra",
+    "Area": "emgara",
+    "ZipCode": "00003",
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Jahra",
+    "Area": "New Jahra",
+    "ZipCode": "00020",
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Jahra",
+    "Area": "Al Surabeya",
+    "ZipCode": "03600",
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Jahra",
+    "Area": "Al Sabeya",
+    "ZipCode": "04000",
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Jahra",
+    "Area": "Alyon",
+    "ZipCode": "00008",
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Jahra",
+    "Area": "Al qasser",
+    "ZipCode": "00004",
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Jahra",
+    "Area": "Al mutla",
+    "ZipCode": "03400",
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Jahra",
+    "Area": "Al naseem",
+    "ZipCode": 70031,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Jahra",
+    "Area": "Al naeem",
+    "ZipCode": "00005",
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Jahra",
+    "Area": "Al waha",
+    "ZipCode": "00007",
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Jahra",
+    "Area": "Taima",
+    "ZipCode": "00006",
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Jahra",
+    "Area": "Saad Al Abdalla",
+    "ZipCode": 91100,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Asema",
+    "Area": "Bnaid Algar",
+    "ZipCode": 36200,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Asema",
+    "Area": "Al Dasma",
+    "ZipCode": 35000,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Asema",
+    "Area": "Al Deaya",
+    "ZipCode": 35300,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Asema",
+    "Area": "Al Mansureya",
+    "ZipCode": 35500,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Asema",
+    "Area": "Abdullah Al salim",
+    "ZipCode": 72101,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Asema",
+    "Area": "Al Nuzha",
+    "ZipCode": 72901,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Asema",
+    "Area": "Al Faiha",
+    "ZipCode": 72701,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Asema",
+    "Area": "Al Shameya",
+    "ZipCode": 71501,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Asema",
+    "Area": "Al rauda",
+    "ZipCode": 73300,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Asema",
+    "Area": "Al odeileya",
+    "ZipCode": 73100,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Asema",
+    "Area": "Al Khaldeya",
+    "ZipCode": 72301,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Asema",
+    "Area": "Kaifan",
+    "ZipCode": 71801,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Asema",
+    "Area": "Al qadseya",
+    "ZipCode": 35700,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Asema",
+    "Area": "Qurtuba",
+    "ZipCode": 73500,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Asema",
+    "Area": "Al surra",
+    "ZipCode": 45400,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Asema",
+    "Area": "Al yarmok",
+    "ZipCode": 72501,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Asema",
+    "Area": "Al shuwaik",
+    "ZipCode": 70031,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Asema",
+    "Area": "Gurnata",
+    "ZipCode": 93500,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Asema",
+    "Area": "Sulebekhat",
+    "ZipCode": 90001,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Asema",
+    "Area": "Al doha",
+    "ZipCode": 35001,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Asema",
+    "Area": "Al nahda",
+    "ZipCode": 66450,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Asema",
+    "Area": "Jaber Al Ahmad",
+    "ZipCode": 91710,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Asema",
+    "Area": "Al qairawan",
+    "ZipCode": 70700,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Asema",
+    "Area": "Dasman",
+    "ZipCode": 15400,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Asema",
+    "Area": "Sharq",
+    "ZipCode": 15300,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Asema",
+    "Area": "Al sawaber",
+    "ZipCode": 15300,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Asema",
+    "Area": "Al Murqab",
+    "ZipCode": 15000,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Asema",
+    "Area": "Al qebla",
+    "ZipCode": 14000,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Asema",
+    "Area": "Al salheya",
+    "ZipCode": 15000,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Al Asema",
+    "Area": "Al watya",
+    "ZipCode": 14250,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Hawali",
+    "Area": "Al bede",
+    "ZipCode": 25000,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Hawali",
+    "Area": "Al jabreya",
+    "ZipCode": 46300,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Hawali",
+    "Area": "Al rumaitheya",
+    "ZipCode": 25400,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Hawali",
+    "Area": "Al zahra",
+    "ZipCode": 47760,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Hawali",
+    "Area": "Al salmeya",
+    "ZipCode": 20001,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Hawali",
+    "Area": "Al salam",
+    "ZipCode": 47700,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Hawali",
+    "Area": "Al shueb",
+    "ZipCode": 35901,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Hawali",
+    "Area": "Al shuhada",
+    "ZipCode": 47780,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Hawali",
+    "Area": "Al sadeq",
+    "ZipCode": 47720,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Hawali",
+    "Area": "Al nugra",
+    "ZipCode": 20011,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Hawali",
+    "Area": "Haten",
+    "ZipCode": 47740,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Hawali",
+    "Area": "Hawali",
+    "ZipCode": 30000,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Hawali",
+    "Area": "salwa",
+    "ZipCode": 25600,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Hawali",
+    "Area": "Mubarak al abdullah al jaber",
+    "ZipCode": 40250,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Hawali",
+    "Area": "Meshref",
+    "ZipCode": 40000,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Hawali",
+    "Area": "West Mishref",
+    "ZipCode": 40006,
+    "ShippingRate": ""
+  },
+  {
+    "Governorate": "Hawali",
+    "Area": "Bayan",
+    "ZipCode": 43600,
+    "ShippingRate": ""
+  }
+]
